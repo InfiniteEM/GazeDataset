@@ -1,4 +1,4 @@
-# ColorSaliencyDataset
+# GazeDataset
 A self-created dataset for color saliency works.  
 We open source part of the training and test sets for researchers to understand the direction of this research.   
 For the full dataset, please contact: 2023010006@ynny.edu.cn 
